@@ -1,0 +1,6 @@
+{
+  "name": "Zoya AI Assistant",
+  "description": "Zoya 999Qi Aura: A high-fidelity, real-time AI companion with sophisticated animations, glassmorphism UI, and quantum-link diagnostics.",
+  "requestFramePermissions": ["microphone", "display-capture"],
+  "majorCapabilities": ["live-audio"]
+}
